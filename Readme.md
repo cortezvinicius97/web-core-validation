@@ -10,13 +10,13 @@ Automatic validation plugin for the [web-core](https://github.com/cortezvinicius
 ### Gradle (Groovy)
 
 ```groovy
-implementation 'com.vcinsidedigital:web-core-validation:1.0.0'
+implementation 'com.vcinsidedigital:web-core-validation:1.0.1'
 ```
 
 ### Gradle (Kotlin)
 
 ```kotlin
-implementation("com.vcinsidedigital:web-core-validation:1.0.0")
+implementation("com.vcinsidedigital:web-core-validation:1.0.1")
 ```
 
 ### Maven
@@ -25,7 +25,7 @@ implementation("com.vcinsidedigital:web-core-validation:1.0.0")
 <dependency>
     <groupId>com.vcinsidedigital</groupId>
     <artifactId>web-core-validation</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 </dependency>
 ```
 
