@@ -2,6 +2,33 @@
 
 Automatic validation plugin for the [web-core](https://github.com/cortezvinicius97/web-core) library, providing annotations and validators for DTOs in Java applications.
 
+## Usage
+
+
+## 🚀 Installation
+
+### Gradle (Groovy)
+
+```groovy
+implementation 'com.vcinsidedigital:web-core-validation:1.0.0'
+```
+
+### Gradle (Kotlin)
+
+```kotlin
+implementation("com.vcinsidedigital:web-core-validation:1.0.0")
+```
+
+### Maven
+
+```xml
+<dependency>
+    <groupId>com.vcinsidedigital</groupId>
+    <artifactId>web-core-validation</artifactId>
+    <version>1.0.0</version>
+</dependency>
+```
+
 ## 📋 Table of Contents
 
 - [Installation](#installation)
