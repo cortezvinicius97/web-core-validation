@@ -1,0 +1,6 @@
+{
+    "package": "com.vcinsidedigital.webcore.validation",
+    "classMain": "ValidationPlugin",
+    "version": "1.0.1",
+    "constructor_class": []
+}

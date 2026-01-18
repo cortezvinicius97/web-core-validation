@@ -32,6 +32,6 @@ public class ValidationPlugin extends AbstractPlugin
 
     @Override
     public String getVersion() {
-        return super.getVersion();
+        return "1.0.1";
     }
 }
