@@ -35,8 +35,8 @@ public class ApiController extends BaseController
     @Post("/create")
     @ResponseStatus(HttpStatus.CREATED)
     public HttpResponse createUser(@Valid UserDto userDto){
-        User user = service.createUser(userDto);
         return executeIfValid(() -> {
+            User user = service.createUser(userDto);
             return created(user);
         });
     }
